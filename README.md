@@ -2,8 +2,8 @@
 Submission for CPSC 411, Section 01, Final
 # Information
 * Name: John Morkovci
-* Name:
-* Name:
+* Name: Kevin Zheng
+* Name: Eric Ayala
 * Name:
 * Name:
 
